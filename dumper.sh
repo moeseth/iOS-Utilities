@@ -4,7 +4,7 @@
 # 
 # class-dumper (using class-dump on i386 binaries)
 
-_class="class-dump-z --arch i386" # you can easily add -S, -s, -a and -A flags ;) 
+_class="class-dump-z --arch armv6" # you can easily add -S, -s, -a and -A flags ;) 
 
 usage()
 {
